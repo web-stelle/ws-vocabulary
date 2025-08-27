@@ -1,0 +1,56 @@
+{
+    "terms_of_use": {
+        "title": "Terms of Use",
+        "sections": [
+            {
+                "title": "1. General Provisions",
+                "content": [
+                    "These Terms of Use (the “Agreement”) govern the use of the website [company name/domain] (the “Website”).",
+                    "By accessing or using the Website, you acknowledge that you have read, understood, and agree to be bound by this Agreement. If you do not agree, please do not use the Website."
+                ]
+            },
+            {
+                "title": "2. Services and Information",
+                "content": [
+                    "The Website is provided for informational purposes only and is intended to introduce visitors to the web development services offered by [company name].",
+                    "All information on the Website is subject to change at any time without prior notice."
+                ]
+            },
+            {
+                "title": "3. Intellectual Property",
+                "content": [
+                    "All content on the Website, including but not limited to text, graphics, logos, and design elements, is the property of [company name] unless otherwise stated.",
+                    "You may not reproduce, distribute, or otherwise use any materials from the Website without prior written permission from [company name]."
+                ]
+            },
+            {
+                "title": "4. Limitation of Liability",
+                "content": [
+                    "[Company name] strives to provide accurate and up-to-date information, but does not guarantee the completeness, reliability, or accuracy of the Website’s content.",
+                    "[Company name] shall not be liable for any direct or indirect damages arising from the use or inability to use the Website."
+                ]
+            },
+            {
+                "title": "5. External Links",
+                "content": [
+                    "The Website may contain links to third-party websites. [Company name] is not responsible for the content or practices of such websites.",
+                    "Accessing third-party websites is at your own risk."
+                ]
+            },
+            {
+                "title": "6. Privacy",
+                "content": [
+                    "The Website may collect minimal personal information (e.g., through contact forms) solely for the purpose of responding to inquiries.",
+                    "By submitting information, you consent to its processing in accordance with applicable data protection laws."
+                ]
+            },
+            {
+                "title": "7. Governing Law",
+                "content": [
+                    "This Agreement shall be governed by and construed in accordance with the laws of [your country].",
+                    "Any disputes arising from the use of the Website shall be subject to the exclusive jurisdiction of the courts of [your country]."
+                ]
+            }
+        ]
+    }
+}
